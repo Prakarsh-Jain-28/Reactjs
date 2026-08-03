@@ -1,0 +1,2 @@
+rule 1: component should return jsx
+rule 2: component name must star from uppercase letter
